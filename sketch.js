@@ -30,7 +30,7 @@ function setup() {
   song = loadSound("audio/seancesound.mp3");
 
   // load in video
-  video = createVideo("videos/p5video.mp4", () => {
+  video = createVideo("p5video.mp4", () => {
     video.hide();
     video.volume(0);
     video.loop();
