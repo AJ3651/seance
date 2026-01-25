@@ -21,7 +21,7 @@ Then using the various code references I found online, I wrote code in p5.js tha
 1. Download code from github repo and run on any code editor
 2. Click on mouse to make fullscreen, press Esc to exit full screen mode
 
-The work is designed to be displayed on a full-size projector with speakers in a darkened physical space to create a more immersive experience. The scale of the projection encourages the viewer to feel enveloped by the footage rather than observing it passively on a small screen, to make them imagine living the experience themselves. The soundtrack (which I compiled myself using copyright free sounds) contains low-frequency droning sounds that are more intended to produce physical vibrations than audible sound. The sound design plays a crucial role in conveying the experience of infinity that the project aims to evoke. The slow, repetitive rhythm of the audio mirrors the looping nature of the visuals, and reinforces the idea of cyclical and non-linear time.
+The work is designed to be displayed on a full-size projector with speakers in a darkened physical space to create a more immersive experience. The scale of the projection encourages the viewer to feel enveloped by the footage rather than observing it passively on a small screen, to make them imagine living the experience themselves. 
 
 
 ## Requirements
@@ -31,7 +31,12 @@ This project requires :
 - High quality speakers
 
 ## Screenshots / Media
-*# Seance
+![Screenshot_20260125_162444_Gallery](https://github.com/user-attachments/assets/210bf8b6-abbd-4216-9746-dd5150ad13eb)
+![Screenshot_20260125_163326_Gallery](https://github.com/user-attachments/assets/5ea6af8d-9f8b-4608-af89-c92cbd0b0eff)
+
+![Screenshot_20260125_163300_Gallery](https://github.com/user-attachments/assets/4211228c-ffaf-499a-9fc9-fed54b20a606)
+
+
 
 
 ## Credits / Acknowledgements 
