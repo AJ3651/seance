@@ -35,11 +35,17 @@ Then using the various code references I found online, I wrote code in p5.js tha
 The work is designed to be displayed on a full-size projector with speakers in a darkened physical space to create a more immersive experience. The scale of the projection encourages the viewer to feel enveloped by the footage rather than observing it passively on a small screen, to make them imagine living the experience themselves. The soundtrack (which I compiled myself using copyright free sounds) contains low-frequency droning sounds that are more intended to produce physical vibrations than audible sound. The sound design plays a crucial role in conveying the experience of infinity that the project aims to evoke. The slow, repetitive rhythm of the audio mirrors the looping nature of the visuals, and reinforces the idea of cyclical and non-linear time. 
 
 
-Install 
+Tech Specs and Install 
+
+This project requires 
+- Laptop to run p5.js code
+- Projector
+- High quality speakers
+
+This is intended to be an immersive audio-visual experience and therefore needs to be shown in a darkened physical space. 
 
 
 
- 
  
 Reflection and Future Development
  
