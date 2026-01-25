@@ -17,6 +17,7 @@ Seance is a computational video work that explores time as perceived by non-huma
 
  
 Concept and Background Research
+
 I view collecting video footage as creating “time capsules” because they keep track of the passing of time and our experience of the world around us. They immortalise time into a format that can be accessed infinitely; to be replayed, stitched, and manipulated in order to distort reality.
 I am interested in using this medium to attempt to capture the experience of time, the past and infinity - through a non-human lens.The chosen timescale for this work is infinity, represented through continuously looping archival footage that has no fixed beginning or end.
  My practice currently surrounds the idea of decentering the human, and I want to explore the differences in the realities we experience as humans coexisting with non-human entities in the same physical space. CCTV cameras are a particularly interesting subject to me in this context, as they operate continuously, without intention or personal memory, recording moments indiscriminately and without emotional bias.
@@ -34,6 +35,8 @@ Then using the various code references I found online, I wrote code in p5.js tha
 The work is designed to be displayed on a full-size projector with speakers in a darkened physical space to create a more immersive experience. The scale of the projection encourages the viewer to feel enveloped by the footage rather than observing it passively on a small screen, to make them imagine living the experience themselves. The soundtrack (which I compiled myself using copyright free sounds) contains low-frequency droning sounds that are more intended to produce physical vibrations than audible sound. The sound design plays a crucial role in conveying the experience of infinity that the project aims to evoke. The slow, repetitive rhythm of the audio mirrors the looping nature of the visuals, and reinforces the idea of cyclical and non-linear time. 
 
 
+Install 
+
 
 
  
@@ -45,6 +48,7 @@ Conceptually, Seance helped me refine my interest in decentering the human persp
 Potentially in the future, I could explore incorporating interactivity into the audience’s experience. For example, the presence or movement of the audience could introduce some latency or further distortion to the footage, which could subtly alter the visuals in response to their real-time interactions. This could further explore the tension between real-time experience and infinity as a concept, allowing the audience’s presence to affect how the past is perceived and transformed.
 
 References
+
  [1] INSECAM, “Live CCTV Cameras Directory.” [Online]. Available: http://www.insecam.org/. Accessed: Jan. 2026.
 [2] A. Parrish, “Working with Video,” The Coding Train. [Online]. Available: https://creative-coding.decontextualize.com/video/. Accessed: Jan. 2026.
 [3] qx578, “Video manipulation,” p5.js Web Editor sketch. [Online]. Available: https://editor.p5js.org/qx578/sketches/1v3G4V7ls. Accessed: Jan. 2026.
