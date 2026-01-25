@@ -27,7 +27,7 @@ function setup() {
   buffer.pixelDensity(1);
 
   // load in the audio 
-  song = loadSound("audio/seancesound.mp3");
+  song = loadSound("seancesound.mp3");
 
   // load in video
   video = createVideo("p5video.mp4", () => {
