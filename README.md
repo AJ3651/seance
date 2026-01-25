@@ -1,6 +1,6 @@
 
 
-#Seance
+Seance
 By Jemila Abdulai
  
 Time as perceived by non-humans.
